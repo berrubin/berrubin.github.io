@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-header:
-  image: assets/images/Ben_banner-1024x245.jpg
+#header:
+#  image: assets/images/Ben_banner-1024x245.jpg
   
 title: Ben Rubin
 email:
@@ -28,6 +28,14 @@ github_username: username
 minimal_mistakes_skin: aqua #default
 search: true
 
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/Ben_banner-1024x245.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+      
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
