@@ -1,3 +1,8 @@
+---
+permalink: /publications/
+title: "Publications"
+---
+
 ## Publications
 
 1. **Rubin BER**, Jones BM, Hunt BG, Kocher SD (2018 preprint and accepted at *Phil. Trans. R.
