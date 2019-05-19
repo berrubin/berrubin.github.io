@@ -6,12 +6,12 @@ title: "Curriculum Vitae"
 ## Contact Information
 
 ## Education
-Ph.D., Committee on Evolutionary Biology, University of Chicago, June 2015  
+Ph.D., Committee on Evolutionary Biology, University of Chicago, June 2015   
 B.A., Biology, *summa cum laude*, Cornell University, May 2009
 
 ## Professional experience
-USDA NIFA Postdoctoral Fellow, Prof. Sarah Kocher  
-“Viral diversity and transmission dynamics in a socially variable clade of wild pollinators”  
+USDA NIFA Postdoctoral Fellow, Prof. Sarah Kocher   
+“Viral diversity and transmission dynamics in a socially variable clade of wild pollinators”   
 Lewis-Sigler Institute for Integrative Genomics, Princeton University, April 2018 - onward
 
 Postdoctoral Research Associate, Prof. Sarah Kocher  
