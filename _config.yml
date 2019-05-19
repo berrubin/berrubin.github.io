@@ -13,6 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+header:
+  image: assets/images/Ben_banner-1024x245.jpg
+  
 title: Ben Rubin
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -74,9 +78,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
-header:
-  image: assets/images/Ben_banner-1024x245.jpg
 
 footer:
   links:
