@@ -27,7 +27,7 @@ feature_row:
   - image_path: assets/images/bioinformatics.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
 #    alt: "placeholder image 2"
-    title: "Bioinformatics"
+#    title: "Bioinformatics"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://berrubin.github.io/publications/"
     btn_label: "Bioinformatics"
