@@ -18,7 +18,7 @@ B.A., Biology, *summa cum laude*, Cornell University, May 2009
 
 ## Professional experience
 USDA NIFA Postdoctoral Fellow, Prof. Sarah Kocher   
-Viral diversity and transmission dynamics in a socially variable clade of wild pollinators   
+  <p>Viral diversity and transmission dynamics in a socially variable clade of wild pollinators</p>   
 Lewis-Sigler Institute for Integrative Genomics    
 Princeton University, Apr. 2018-
 
@@ -28,20 +28,20 @@ Lewis-Sigler Institute for Integrative Genomics
 Princeton University, Aug. 2015-Mar. 2018
 
 ## Awards & Activities
-USDA NIFA Postdoctoral Fellowship ($164,331), 2018-2020   
-Field Museum Brown Family Fellowship ($30,000), 2013-2014   
-NSF Doctoral Dissertation Improvement Grant ($20,529), 2013   
-NSF Graduate Research Fellowship ($123,000), 2010-2013   
-Field Museum Pritzker lab student research grant ($2,000 each), Spring 2012, 2014   
-Field Museum MiSeq research grant ($5,000), Spring 2014   
-UChicago Hinds Fund for student research ($1,500 each), Spring 2010, 2011, 2012   
-Explorer’s Club Youth Activity Fund ($1,000), Summer 2008   
-NAS/IUSSI EntSoc meeting travel award, 2013   
-i5k Community Workshop student travel award, May 2012   
-UChicago Biological Sciences Division travel award, Dec. 2010   
-Highest honors for undergraduate thesis, May 2009   
-Member, Entomological Society of America, Since July 2009   
-Member, The Society for the Study of Evolution, Since Jan. 2011   
+* USDA NIFA Postdoctoral Fellowship ($164,331), 2018-2020   
+* Field Museum Brown Family Fellowship ($30,000), 2013-2014   
+* NSF Doctoral Dissertation Improvement Grant ($20,529), 2013   
+* NSF Graduate Research Fellowship ($123,000), 2010-2013   
+* Field Museum Pritzker lab student research grant ($2,000 each), Spring 2012, 2014   
+* Field Museum MiSeq research grant ($5,000), Spring 2014   
+* UChicago Hinds Fund for student research ($1,500 each), Spring 2010, 2011, 2012   
+* Explorer’s Club Youth Activity Fund ($1,000), Summer 2008   
+* NAS/IUSSI EntSoc meeting travel award, 2013   
+* i5k Community Workshop student travel award, May 2012   
+* UChicago Biological Sciences Division travel award, Dec. 2010   
+* Highest honors for undergraduate thesis, May 2009   
+* Member, Entomological Society of America, Since July 2009   
+* Member, The Society for the Study of Evolution, Since Jan. 2011   
 
 ## Publications 
 1. **Rubin BER** (2018 preprint) Social insect colony size is correlated with rates of substitution and DNA repair gene evolution. bioRxiv doi: 10.1101/415570.
