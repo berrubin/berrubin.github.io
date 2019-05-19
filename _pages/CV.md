@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 ## Contact Information
 
 ## Education
-Ph.D., Committee on Evolutionary Biology, University of Chicago, June 2015
+Ph.D., Committee on Evolutionary Biology, University of Chicago, June 2015  
 B.A., Biology, *summa cum laude*, Cornell University, May 2009
 
 ## Professional experience
