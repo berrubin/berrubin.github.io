@@ -33,8 +33,11 @@ feature_row:
     btn_label: "Bioinformatics"
     btn_class: "btn--primary"
   - image_path: assets/images/rubin_moreau_feature.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Ants & Bees"
+    url: "https://berrubin.github.io/publications/"
+    btn_label: "Ants & Bees"
+    btn_class: "btn--primary"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
 #  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #    alt: "placeholder image 2"
