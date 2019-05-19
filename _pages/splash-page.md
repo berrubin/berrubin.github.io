@@ -23,7 +23,7 @@ feature_row:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://berrubin.github.io/publications/"
     btn_label: "About"
-    btn_class: "btn--inverse"
+    btn_class: "btn--inverse btn--small"
   - image_path: assets/images/bioinformatics.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
 #    alt: "placeholder image 2"
@@ -33,10 +33,10 @@ feature_row:
     btn_label: "Bioinformatics"
     btn_class: "btn--inverse btn--small"
   - image_path: assets/images/rubin_moreau_feature.jpg
-    title: "Ants & Bees"
+#    title: "Ants & Bees"
     url: "https://berrubin.github.io/publications/"
     btn_label: "Ants & Bees"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse btn--small"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
 #  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
