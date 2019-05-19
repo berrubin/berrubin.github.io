@@ -19,9 +19,9 @@ feature_row:
 #    title: "About"
     actions:
 #      - label: "About"
-        url: "https://berrubin.github.io/publications/"
+        url: "https://berrubin.github.io/about/"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://berrubin.github.io/publications/"
+    url: "https://berrubin.github.io/about/"
     btn_label: "About"
     btn_class: "btn--inverse btn--small"
   - image_path: assets/images/bioinformatics.png
@@ -29,12 +29,12 @@ feature_row:
 #    alt: "placeholder image 2"
 #    title: "Bioinformatics"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://berrubin.github.io/publications/"
+    url: "https://berrubin.github.io/bioinformatics/"
     btn_label: "Bioinformatics"
     btn_class: "btn--inverse btn--small"
   - image_path: assets/images/rubin_moreau_feature.jpg
 #    title: "Ants & Bees"
-    url: "https://berrubin.github.io/publications/"
+    url: "https://berrubin.github.io/research/"
     btn_label: "Ants & Bees"
     btn_class: "btn--inverse btn--small"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
