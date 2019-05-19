@@ -11,5 +11,5 @@ main:
     url: /CV/
   - title: "Teaching"
     url: /teaching/
-  -title: "About"
+  - title: "About"
     url: /about/
