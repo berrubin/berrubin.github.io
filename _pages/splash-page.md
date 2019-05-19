@@ -16,7 +16,7 @@ intro:
 feature_row:
   - image_path: assets/images/27371866.jpeg
 #    alt: "placeholder image 1"
-    title: "About"
+#    title: "About"
     actions:
 #      - label: "About"
         url: "https://berrubin.github.io/publications/"
