@@ -23,15 +23,15 @@ feature_row:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://berrubin.github.io/publications/"
     btn_label: "About"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--inverse"
   - image_path: assets/images/bioinformatics.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
 #    alt: "placeholder image 2"
     title: "Bioinformatics"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://berrubin.github.io/publications/"
-#    btn_label: "Bioinformatics"
-#    btn_class: "btn--primary"
+    btn_label: "Bioinformatics"
+    btn_class: "btn--inverse btn--small"
   - image_path: assets/images/rubin_moreau_feature.jpg
     title: "Ants & Bees"
     url: "https://berrubin.github.io/publications/"
