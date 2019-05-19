@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Benjamin Rubin"
   avatar : "/assets/images/27371866.jpeg"
-  bio    : "Evolutionary genomicist and bioinformaticist."
+  bio    : "Bioinformatician and evolutionary genomicist."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
