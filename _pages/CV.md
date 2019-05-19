@@ -18,14 +18,14 @@ B.A., Biology, *summa cum laude*, Cornell University, May 2009
 
 ## Professional experience
 USDA NIFA Postdoctoral Fellow, Prof. Sarah Kocher   
-  <p>Viral diversity and transmission dynamics in a socially variable clade of wild pollinators</p>   
+Viral diversity and transmission dynamics in a socially variable clade of wild pollinators   
 Lewis-Sigler Institute for Integrative Genomics    
 Princeton University, Apr. 2018-
 
 Postdoctoral Research Associate, Prof. Sarah Kocher   
-Genomic evolution of social behavior in bees   
-Lewis-Sigler Institute for Integrative Genomics   
-Princeton University, Aug. 2015-Mar. 2018
+&nbsp;&nbsp;Genomic evolution of social behavior in bees   
+&nbsp;&nbsp;Lewis-Sigler Institute for Integrative Genomics   
+&nbsp;&nbsp;Princeton University, Aug. 2015-Mar. 2018
 
 ## Awards & Activities
 * USDA NIFA Postdoctoral Fellowship ($164,331), 2018-2020   
