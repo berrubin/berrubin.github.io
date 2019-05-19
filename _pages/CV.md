@@ -50,3 +50,23 @@ Member, The Society for the Study of Evolution, Since Jan. 2011
 * Rubin BER, Convergent selection and rates of evolution in mutualistic plant-ants. Academia Sinica, Oct. 2014.
 * Rubin BER, Convergent selection and rates of evolution in mutualistic plant-ants. Okinawa Institute of Science and Technology, Oct. 2014.
 * Rubin BER, Genome evolution in mutualistic plant-ants. Ecology and Macroevolution seminar, EAWAG, Swiss Institute for Aquatic Science, May 2013.
+
+## Other Presentations
+* Rubin BER. Ant colony size is correlated with genome-wide rates of molecular evolution and constraint on DNA repair. Oral presentation, Entomological Society of America, Nov. 2018.
+* Rubin BER, Kocher SD. Harnessing natural variation to study the evolution of social behavior in bees. Oral presentation, Biology & Genomics of Social Insects at CSHL, May 2018.
+* Rubin BER, Kocher SD. Comparative genomics in halictid bees reveals the genetic underpinnings of social evolution. Oral presentation, Advances in Arthropod Genomics Symposium at the Entomological Society of America, Nov. 2017.
+* Rubin BER, Sanders JS, Kocher SD. Nascent bacterial endosymbionts compete for sweat bee hosts. Oral presentation, International Union for the Study of Social Insects North American Section meeting, Sept. 2016.
+* Rubin BER, Kocher SD. Comparative population genomics in halictid bees provides insights into the evolution of social behavior. Oral presentation, International Congress of Entomology meeting, Sept. 2016.
+* Rubin BER, Moreau CS. Comparative genomics of plant-ants reveals convergent rates of evolution in mutualists. Oral presentation, Biology and Genomics of Social Insects, May 2015.
+* Rubin BER, Moreau CS. Genome-wide rates of molecular evolution are higher in mutualistic plant-nesting ants. Oral presentation, Entomological Society of America, Nov. 2014.
+* Rubin BER, Moreau CS. The genetic basis of mutualism in Pseudomyrmex plant-ants. Oral presentation, International Union for the Study of Social Insects, Aug. 2014.
+* Rubin BER, Moreau CS. Genome-wide rates of molecular evolution are higher in mutualistic plant-nesting ants. Oral presentation, Evolution, June 2014.
+* Rubin BER, Moreau CS. The genome of the big-eyed arboreal ant Pseudomyrmex gracilis. Oral presentation, Entomological Society of America, Nov. 2013.
+* Rubin BER, Moreau CS. The genome of the big-eyed arboreal ant Pseudomyrmex gracilis. Oral presentation, Evolution, June 2013.
+* Rubin BER, Kautz S, Moreau CS. The genome of the arboreal ant Pseudomyrmex gracilis. Poster, Entomological Society of America, Nov. 2012.
+* Rubin BER. Genome evolution in mutualistic plant-ants. Oral presentation, Chicago Area Ant Meeting, Nov. 2012.
+* Rubin BER, Kautz S, Moreau CS. Dietary consequences of plant-ant mutualism. Oral presentation, Entomological Society of America, Nov. 2011.
+* Rubin BER. The evolution of plant-ants: Genomic and dietary consequences of plant-ant mutualistic behavior. Oral presentation, Chicago Area Ant Meeting, Sept. 2011.
+* Rubin BER, Kautz S, Emery VJ, Moreau CS. The evolution of plant-ant mutualism. Oral presentation, Entomological Society of America, Dec. 2010.
+* Rubin BE, Palmer T, Stanton M, Lovette IJ. Polygyny and competition in the acacia-ant Crematogaster mimosae. Poster, Entomological Society of America, Dec. 2009.
+* Rubin BE, Lovette IJ. Colony structure of an African acacia-ant. Poster, International Society for Behavioral Ecology, Aug. 2008.
