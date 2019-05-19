@@ -4,13 +4,11 @@ title: "Publications"
 ---
 1. **Rubin BER** (2018 preprint) Social insect colony size is correlated with rates of substitution and DNA repair gene evolution. bioRxiv doi: 10.1101/415570.
 1. **Rubin BER**, Jones BM, Hunt BG, Kocher SD (2018 preprint and accepted at *Phil. Trans. R. Soc. B*) Rate variation in the evolution of non-coding DNA associated with social evolution in bees. bioRxiv doi: 10.1101/461079.
-2. Kocher SD, Mallarino R, **Rubin BER**, Yu DW, Hoekstra HE, Pierce NE (2018) The genetic basis of a social polymorphism in halictid bees. *Nature Communications* 9: 4338.
+4. **Rubin BER**, Kautz S, Wray BD, Moreau CS (2018) Dietary specialization in mutualistic acacia- ants affects relative abundance but not identity of host-associated bacteria. *Molecular Ecology* 28(4): 900-916. (commentary: Pringle E. Convergence, constraint and the potential for mutualism between ants and gut microbes. *Molecular Ecology*. 28(4): 699–702.)
 3. **Rubin BER**, Sanders JG, Turner KM, Pierce NE, Kocher SD (2018) Social behavior in bees influences the abundance of Sodalis (Enterobacteriaceae) symbionts. *Royal Society open science* 5: 180369.
-4. **Rubin BER**, Kautz S, Wray BD, Moreau CS (2018) Dietary specialization in mutualistic acacia- ants affects relative abundance but not identity of host-associated bacteria. *Molecular Ecology* 28(4): 900-916.
+2. Kocher SD, Mallarino R, **Rubin BER**, Yu DW, Hoekstra HE, Pierce NE (2018) The genetic basis of a social polymorphism in halictid bees. *Nature Communications* 9: 4338.
 5. Moreau CS, **Rubin BER** (2017) Diversity and persistence of the gut microbiome of the giant Neotropical bullet ant. *Integrative & Comparative Biology* icx037.
-6. **Rubin BER**, Moreau CS (2016) Comparative genomics reveals convergent rates of evolution in ant-plant mutualisms. *Nature Communications* 7: 12679.
-  
-  Press: Pennisi E. Peaceful ant-plant partnerships lead to genomic arms races. Science DOI: 10.1126/science.aah7229.
+6. **Rubin BER**, Moreau CS (2016) Comparative genomics reveals convergent rates of evolution in ant-plant mutualisms. *Nature Communications* 7: 12679. (press: Pennisi E. Peaceful ant-plant partnerships lead to genomic arms races. *Science* DOI: 10.1126/science.aah7229.)
 6. Sullam KE, **Rubin BER**, Dalton CM, Kilham SS, Flecker AS, Russell JA (2015) Divergence across diet, time and populations rules out parallel evolution in the gut microbiomes of Trinidadian guppies. *ISME J* 9(7): 1508-1522.
 7. **Rubin BER**, Sanders JG, Hampton-Marcell J, Owens SM, Gilbert JA, Moreau CS (2014) DNA extraction protocols cause differences in 16S rRNA amplicon sequencing efficiency but not in community profile composition or structure. *MicrobiologyOpen* 3(6): 910-921.
 8. **Rubin BER**, Gibbons SM, Kennedy S, Hampton-Marcell J, Owens S, Gilbert JA (2013) Investigating the impact of storage conditions on microbial community composition in soil samples. *PLoS ONE* 8: e70460.
