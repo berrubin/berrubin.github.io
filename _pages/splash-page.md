@@ -16,7 +16,7 @@ intro:
 feature_row:
   - image_path: assets/images/27371866.jpeg
 #    alt: "placeholder image 1"
-#    title: "About"
+    title: "About"
     actions:
 #      - label: "About"
         url: "https://berrubin.github.io/publications/"
@@ -24,13 +24,13 @@ feature_row:
     url: "https://berrubin.github.io/publications/"
     btn_label: "About"
     btn_class: "btn--primary"
-  - image_path: assets/images/website1-100x150.jpg
+  - image_path: assets/images/website1-100x150.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
+#    alt: "placeholder image 2"
     title: "Bioinformatics"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://berrubin.github.io/publications/"
+    btn_label: "Bioinformatics"
     btn_class: "btn--primary"
   - image_path: assets/images/rubin_moreau_feature.jpg
     title: "Placeholder 3"
@@ -64,9 +64,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-# {% include feature_row id="feature_row2" type="left" %}
-
-# {% include feature_row id="feature_row3" type="right" %}
-
-# {% include feature_row id="feature_row4" type="center" %}
