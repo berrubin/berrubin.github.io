@@ -4,6 +4,13 @@ title: "Curriculum Vitae"
 ---
 
 ## Contact Information
+[berubin[at]princeton.edu](mailto:berubin@princeton.edu)
+
+Princeton University   
+Ecology and Evolutionary Biology   
+Guyot Hall room 106A   
+Washington Road   
+Princeton, NJ 08544-1003   
 
 ## Education
 Ph.D., Committee on Evolutionary Biology, University of Chicago, June 2015   
@@ -12,11 +19,13 @@ B.A., Biology, *summa cum laude*, Cornell University, May 2009
 ## Professional experience
 USDA NIFA Postdoctoral Fellow, Prof. Sarah Kocher   
 Viral diversity and transmission dynamics in a socially variable clade of wild pollinators   
-Lewis-Sigler Institute for Integrative Genomics, Princeton University, Apr. 2018-
+Lewis-Sigler Institute for Integrative Genomics    
+Princeton University, Apr. 2018-
 
 Postdoctoral Research Associate, Prof. Sarah Kocher   
-“Genomic evolution of social behavior in bees”   
-Lewis-Sigler Institute for Integrative Genomics, Princeton University, Aug. 2015-Mar. 2018
+Genomic evolution of social behavior in bees   
+Lewis-Sigler Institute for Integrative Genomics   
+Princeton University, Aug. 2015-Mar. 2018
 
 ## Awards & Activities
 USDA NIFA Postdoctoral Fellowship ($164,331), 2018-2020   
