@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Home"
+#title: "Home"
 author_profile: true
 ---
 
