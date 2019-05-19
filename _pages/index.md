@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /home/
 #title: "Home"
 author_profile: true
 ---
