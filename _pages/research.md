@@ -19,8 +19,10 @@ Ants are the most numerous animals in many terrestrial ecosystems, comprising ov
 
 Instead of a particular bacterial community associated with acacia-ants, we found that community composition is correlated with trophic level, indicating that bacteria likely colonize ant guts based on diet, rather than acacia-ants depending on a specific lineage of coevolved bacteria for nutritional enrichment. Most excitingly, we found that a previously unknown bacterial lineage in the genus *Tokpelaia*, present in both mutualists and non-mutualists, possesses a complete nitrogen recycling pathway, and may contribute to the dietary enrichment of herbivorous ants in general. I am continuing to explore the function of these bacteria and their apparent evolution into obligate symbionts of ants. These findings have been published [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14834).
 
+<img src="/assets/images/iso-300.png" alt="this is a placeholder image" width = "300" height = "322" align = "right">
+
 <figure>
-  <img src="/assets/images/iso-300.png" alt="this is a placeholder image" align = "right">
+  <img src="/assets/images/iso-300.png" alt="this is a placeholder image" width = "300" height = "322" align = "right">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
