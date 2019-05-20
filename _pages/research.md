@@ -29,6 +29,7 @@ I recently found that several strains of bacteria in the genus *Sodalis* have in
 I have now received a postdoctoral fellowship from the USDA NIFA program to study the viruses associated with halictids as well. I am using molecular and bioinformatic techniques to characterize the viral communities in sweat bees and other non-model bees that provide important ecosystem services as pollinators.
 
 Phylogeny of halictid genomes being sequenced. Evolutionary relationships are taken from Gibbs et al. (2012) MPE.
+<img src="/assets/images/figure_phylo_3origins.png" alt="this is a placeholder image" width = "300" height = "322" align = "right">
 
 In collaboration with my postdoctoral advisor, Dr. Sarah Kocher, I am studying the evolution of social behavior in sweat bees (Halictidae). This clade of bees is remarkably variable in sociality with even closely related species behaving very differently. We are sequencing the genomes of 16 species of these bees in order to identify the convergent genetic changes associated with social evolution.
 
