@@ -12,6 +12,13 @@ Plant-ant mutualism has evolved at least three times within *Pseudomyrmex*, maki
 
 Although we were unable to clearly identify the mechanism underlying these differences in evolutionary rates, this finding piqued my interest in the connections between life history evolution and genome evolution. Questions on this topic form the basis of much of my research program.
 
-![image-right](/assets/images/pseudo_time_tree_legend-400x400.jpg){: .align-right}
+![image-right](/assets/images/iso-285x300.png){: .align-right}
 
 ## Bees
+
+
+Distribution of dN/dS ratios of free-living *Sodalis* (white circle), sweat bee-associated *Sodalis* (purple), and other insect symbionts (gray). Significance was determined by comparing to the free-living form. The sweat bee-inhabiting *Sodalis* appear to be experiencing widespread relaxed selection.
+
+I recently found that several strains of bacteria in the genus *Sodalis* have independently colonized sweat bees (Halictidae). In every case, the genomes of these bacteria appear to be experiencing relaxed selection, suggesting a transition to obligate symbiosis. At least some of these strains are shared across bee species and geographic location but appear to compete with each other for territory when found together in the same individual bee. I plan to expand this line of research, what has predisposed *Sodalis* to repeatedly colonizing sweat bees. I will especially focus on the apparent competition between strains as these will likely be informative for understanding how insect-microbial symbioses stabilize over evolutionary time. Our first paper describing these findings is available [here](http://rsos.royalsocietypublishing.org/content/5/7/180369).
+
+I have now received a postdoctoral fellowship from the USDA NIFA program to study the viruses associated with halictids as well. I am using molecular and bioinformatic techniques to characterize the viral communities in sweat bees and other non-model bees that provide important ecosystem services as pollinators.
