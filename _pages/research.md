@@ -22,7 +22,7 @@ Instead of a particular bacterial community associated with acacia-ants, we foun
 <img src="/assets/images/iso-300.png" alt="this is a placeholder image" width = "300" height = "322" align = "right">
 
 <figure>
-  <img src="/assets/images/iso-300.png" alt="this is a placeholder image" width = "300" height = "322" align = "right">
+  <img src="/assets/images/iso-300.png" alt="this is a placeholder image" style="width:300px;height:322px;" align = "right">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
