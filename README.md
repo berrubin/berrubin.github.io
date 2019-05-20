@@ -1,3 +1,3 @@
-# Minimal Mistakes remote theme starter
+# Ben Rubin's homepage
 
 
