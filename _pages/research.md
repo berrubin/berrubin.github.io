@@ -22,7 +22,7 @@ Instead of a particular bacterial community associated with acacia-ants, we foun
 ## Bees
 
 Distribution of dN/dS ratios of free-living *Sodalis* (white circle), sweat bee-associated *Sodalis* (purple), and other insect symbionts (gray). Significance was determined by comparing to the free-living form. The sweat bee-inhabiting *Sodalis* appear to be experiencing widespread relaxed selection.
-<img src="/assets/images/sod_phy.png" alt="this is a placeholder image" width = "300" height = "322" align = "right">
+<img src="/assets/images/sod_phy.png" alt="this is a placeholder image" width = "300" height = "163" align = "right">
 
 I recently found that several strains of bacteria in the genus *Sodalis* have independently colonized sweat bees (Halictidae). In every case, the genomes of these bacteria appear to be experiencing relaxed selection, suggesting a transition to obligate symbiosis. At least some of these strains are shared across bee species and geographic location but appear to compete with each other for territory when found together in the same individual bee. I plan to expand this line of research, what has predisposed *Sodalis* to repeatedly colonizing sweat bees. I will especially focus on the apparent competition between strains as these will likely be informative for understanding how insect-microbial symbioses stabilize over evolutionary time. Our first paper describing these findings is available [here](http://rsos.royalsocietypublishing.org/content/5/7/180369).
 
