@@ -24,7 +24,7 @@ Instead of a particular bacterial community associated with acacia-ants, we foun
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
-# ![image-right]{% include figure image_path="/assets/images/iso-285x300.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+#![image-right]{% include figure image_path="/assets/images/iso-285x300.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 ## Bees
 
