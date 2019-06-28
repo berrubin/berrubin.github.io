@@ -45,7 +45,7 @@ Postdoctoral Research Associate, Prof. Sarah Kocher
 
 ## Publications 
 1. **Rubin BER** (2018 preprint) Social insect colony size is correlated with rates of substitution and DNA repair gene evolution. bioRxiv doi: 10.1101/415570.
-1. **Rubin BER**, Jones BM, Hunt BG, Kocher SD (2018 preprint and accepted at *Phil. Trans. R. Soc. B*) Rate variation in the evolution of non-coding DNA associated with social evolution in bees. bioRxiv doi: 10.1101/461079.
+1. **Rubin BER**, Jones BM, Hunt BG, Kocher SD (2018) Rate variation in the evolution of non-coding DNA associated with social evolution in bees. *Phil. Trans. R. Soc. B* 374: 20180247.
 4. **Rubin BER**, Kautz S, Wray BD, Moreau CS (2018) Dietary specialization in mutualistic acacia- ants affects relative abundance but not identity of host-associated bacteria. *Molecular Ecology* 28(4): 900-916. (commentary: Pringle E. Convergence, constraint and the potential for mutualism between ants and gut microbes. *Molecular Ecology*. 28(4): 699–702.)
 3. **Rubin BER**, Sanders JG, Turner KM, Pierce NE, Kocher SD (2018) Social behavior in bees influences the abundance of Sodalis (Enterobacteriaceae) symbionts. *Royal Society open science* 5: 180369.
 2. Kocher SD, Mallarino R, **Rubin BER**, Yu DW, Hoekstra HE, Pierce NE (2018) The genetic basis of a social polymorphism in halictid bees. *Nature Communications* 9: 4338.
@@ -62,6 +62,7 @@ Postdoctoral Research Associate, Prof. Sarah Kocher
 14. **Rubin BE**, Makarewich CA, Talaba AL, Stenzler L, Bogdanowicz SM, Lovette IJ (2009) Isolation and characterization of microsatellite markers from the acacia-ant Crematogaster mimosae. *Molecular Ecology Resources* 9: 1212-1214.
 
 ## Invited Talks
+* Rubin BER. Social behavior in bees influences the abundance of microbial symbionts. Animal-Microbe Symbioses Gordon Research Conference, Mt. Snow, Vt., June 2019.
 * Rubin BER. The evolution of cooperation and how it shapes the genomes of social insects and their symbionts. Lester Newman Seminar, Portland State University, Apr. 2018.
 * Rubin BER. The evolution of cooperation and how it shapes the genomes of social insects and their symbionts. Department of Botany Seminar, University of Wyoming, Feb. 2018.
 * Rubin BER. The evolution of cooperation and how it shapes the genomes of social insects and their symbionts. Biological Sciences Seminar, The George Washington University, Jan. 2018.
@@ -77,6 +78,7 @@ Postdoctoral Research Associate, Prof. Sarah Kocher
 * Rubin BER, Genome evolution in mutualistic plant-ants. Ecology and Macroevolution seminar, EAWAG, Swiss Institute for Aquatic Science, May 2013.
 
 ## Other Presentations
+* Rubin BER, Kocher SD. Social evolution in sweat bees is associated with convergent rate shifts in non-coding sequence. Oral presentation, Evolution Conference, June 2019.
 * Rubin BER. Ant colony size is correlated with genome-wide rates of molecular evolution and constraint on DNA repair. Oral presentation, Entomological Society of America, Nov. 2018.
 * Rubin BER, Kocher SD. Harnessing natural variation to study the evolution of social behavior in bees. Oral presentation, Biology & Genomics of Social Insects at CSHL, May 2018.
 * Rubin BER, Kocher SD. Comparative genomics in halictid bees reveals the genetic underpinnings of social evolution. Oral presentation, Advances in Arthropod Genomics Symposium at the Entomological Society of America, Nov. 2017.
