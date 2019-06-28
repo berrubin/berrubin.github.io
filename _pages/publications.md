@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 1. **Rubin BER** (2018 preprint) Social insect colony size is correlated with rates of substitution and DNA repair gene evolution. bioRxiv doi: 10.1101/415570.
-1. **Rubin BER**, Jones BM, Hunt BG, Kocher SD (2018 preprint and accepted at *Phil. Trans. R. Soc. B*) Rate variation in the evolution of non-coding DNA associated with social evolution in bees. bioRxiv doi: 10.1101/461079.
+1. **Rubin BER**, Jones BM, Hunt BG, Kocher SD (2019) Rate variation in the evolution of non-coding DNA associated with social evolution in bees.  *Phil. Trans. R. Soc. B* 374: 20180247.
 4. **Rubin BER**, Kautz S, Wray BD, Moreau CS (2018) Dietary specialization in mutualistic acacia- ants affects relative abundance but not identity of host-associated bacteria. *Molecular Ecology* 28(4): 900-916. 
 + commentary: Pringle E. Convergence, constraint and the potential for mutualism between ants and gut microbes. *Molecular Ecology*. 28(4): 699–702.
 3. **Rubin BER**, Sanders JG, Turner KM, Pierce NE, Kocher SD (2018) Social behavior in bees influences the abundance of Sodalis (Enterobacteriaceae) symbionts. *Royal Society open science* 5: 180369.
