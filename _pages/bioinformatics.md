@@ -11,4 +11,4 @@ A few of the pipelines that I have written might be useful to others. I wrote my
 
 Whole genome alignment across multiple species is a difficult problem and those pipelines that do exist are very difficult to install. `BeeGenomeAligner` (https://github.com/berrubin/BeeGenomeAligner) is my attempt to ease this process. It merges pairwise alignments with a reference genome and creates loci that can be examined for evolutionary rate shifts.
 
-`ComparativeGenomics` (https://github.com/berrubin/ComparativeGenomics) is a pipeline that organizes many common comparative genomics 
+`ComparativeGenomics` (https://github.com/berrubin/ComparativeGenomics) is a pipeline that organizes many genomics analyses. This includes both population genomics and comparative genomics tests for selection from alignments to tests for selection including dN/dS-type tests as well as MK tests.
