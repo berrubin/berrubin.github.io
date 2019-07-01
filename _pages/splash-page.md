@@ -19,10 +19,10 @@ feature_row:
 #    title: "About"
     actions:
 #      - label: "About"
-        url: "https://berrubin.github.io/about/"
+        url: "https://berrubin.github.io/CV/"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://berrubin.github.io/about/"
-    btn_label: "About"
+    url: "https://berrubin.github.io/CV/"
+    btn_label: "CV"
     btn_class: "btn--inverse btn--small"
   - image_path: assets/images/bioinformatics.png
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
